@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-
-This is a temporary script file.
+@author: Hiba Irfan
 """
 from math import factorial
 print("====================== Hello! Welcome to Pascal Triangle generator ===========")
